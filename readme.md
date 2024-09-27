@@ -34,5 +34,5 @@ python3 criminal_ip_map.py
 ---
 - Execute
   - ![EXE](EXE.png)
-- result
+- Result
   - ![RESULT](RESULT.png)
